@@ -1,5 +1,5 @@
 # The OlMEGA Framework
-Version 0.1, Author and Contact Joerg.Bitzer(AT)jade-hs.de
+
 
 OlMEGA is an open-source framework for acoustical ecological momentary assessment (EMA). It consits of many (in)-dependent tools. These tools are written in different programming languages and in many cases are under-maintained (due to the needed resources for full maintance). It is likely that you have to get around quirks or to report an issue. However, it worked for many studies even with its limitations.
 
