@@ -1,7 +1,7 @@
-# The OlMEGA Framework
+# The olMEGA Framework
 
 
-OlMEGA is an open-source framework for acoustical ecological momentary assessment (EMA). It consits of many (in)-dependent tools. These tools are written in different programming languages and in many cases are under-maintained (due to the needed resources for full maintance). It is likely that you have to get around quirks or to report an issue. However, it worked for many studies even with its limitations.
+olMEGA is an open-source framework for acoustical ecological momentary assessment (EMA). It consits of many (in)-dependent tools. These tools are written in different programming languages and in many cases are under-maintained (due to the needed resources for full maintance). It is likely that you have to get around quirks or to report an issue. However, it worked for many studies even with its limitations.
 
 ## Sources:
 The toools are available here: 
@@ -14,7 +14,7 @@ https://github.com/ol-MEGA
 
 ## Overall structure
 
-The OlMEGA System has several parts and you have to decide which parts you really need.
+The olMEGA System has several parts and you have to decide which parts you really need.
 
 * Hardware: The transmission device with MEMS Microphones and bluetooth transmitter (only necessary for head-related acoustic monitoring of the environment). You can buy fully build devices or build them yourself (not recommended)
 * Android-Software: The questionaire and acoustic monitoring software on the mobile device, JAVA
@@ -36,9 +36,9 @@ Near Future: Change the extraction and analysis tools to Python, to elimnate the
 * read the manual for the mobile software 
 * if you want to use and share your data in a (or in our) database, please contact us. This is necessary for shared unique IDs for questions in the questionaire.
 
-### Setup mobile device and OlMEGA hardware
+### Setup mobile device and olMEGA hardware
 * install ADB (Android Debug Bridge) on your PC/notebook and be sure it is in the system path.
-* download latest version of OlMEGA mobile software (apk file) (see above)
+* download latest version of olMEGA mobile software (apk file) (see above)
 * have your questionaire file ready (xml file) (see manual)
 * transfer apk and xml file to your mobile phone (https://github.com/ol-MEGA/olMEGA_Installation)
 
@@ -72,7 +72,7 @@ Near Future: Change the extraction and analysis tools to Python, to elimnate the
 
 * no database usage
 
-### Setup mobile device and OlMEGA hardware (following the procedure in the handbook)
+### Setup mobile device and olMEGA hardware (following the procedure in the handbook)
 
 more info at 2.2 Installation steps in the handbook (https://raw.githubusercontent.com/ol-MEGA/olMEGA_Handbook/master/olMEGA_Handbook.pdf).
 
